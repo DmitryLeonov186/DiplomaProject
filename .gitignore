@@ -4,6 +4,9 @@ HELP.md
 google-services.json
 build/
 app/release/
+Result.md
+README.md
+**app/src/androidTest/
 
 ### STS ###
 .apt_generated
